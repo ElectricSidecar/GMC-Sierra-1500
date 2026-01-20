@@ -1,0 +1,34 @@
+command_id: DB33.016D
+test_cases:
+- expected_values:
+    FRP_A: 4790
+    FRP_A_CMD: 5000
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 4750
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 1
+    FRT_A: 60
+    FRT_A_SUP: 1
+    FRT_B: 60
+    FRT_B_SUP: 1
+  response: |-
+    18DAF111100D416D3701F401
+    18DAF11121DF64000001DB64
+- expected_values:
+    FRP_A: 6920
+    FRP_A_CMD: 7390
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 6870
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 1
+    FRT_A: 25
+    FRT_A_SUP: 1
+    FRT_B: 25
+    FRT_B_SUP: 1
+  response: |-
+    18DAF111100D416D3702E302
+    18DAF11121B441000002AF41
