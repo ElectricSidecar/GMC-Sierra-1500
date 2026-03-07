@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SIERRA1500_VSS: 0
   response: 7E80462000D00
+- expected_values:
+    SIERRA1500_VSS: 117
+  response: 7E80462000D75
+- expected_values:
+    SIERRA1500_VSS: 255
+  response: 7E80462000DFF
