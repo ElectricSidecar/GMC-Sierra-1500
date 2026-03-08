@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     SIERRA1500_VSS: 0
   response: 7E80462000D00
+- expected_values:
+    SIERRA1500_VSS: 74
+  response: 7E80462000D4A
+- expected_values:
+    SIERRA1500_VSS: 108
+  response: 7E80462000D6C
+- expected_values:
+    SIERRA1500_VSS: 117
+  response: 7E80462000D75
+- expected_values:
+    SIERRA1500_VSS: 118
+  response: 7E80462000D76
+- expected_values:
+    SIERRA1500_VSS: 119
+  response: 7E80462000D77
+- expected_values:
+    SIERRA1500_VSS: 120
+  response: 7E80462000D78
+- expected_values:
+    SIERRA1500_VSS: 121
+  response: 7E80462000D79
+- expected_values:
+    SIERRA1500_VSS: 124
+  response: 7E80462000D7C
+- expected_values:
+    SIERRA1500_VSS: 255
+  response: 7E80462000DFF
