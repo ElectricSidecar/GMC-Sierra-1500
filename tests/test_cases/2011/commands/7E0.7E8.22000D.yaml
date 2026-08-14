@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    SIERRA1500_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    SIERRA1500_VSS: 6
+  response: 7E80462000D06
+- expected_values:
+    SIERRA1500_VSS: 22
+  response: 7E80462000D16
+- expected_values:
+    SIERRA1500_VSS: 27
+  response: 7E80462000D1B
+- expected_values:
+    SIERRA1500_VSS: 45
+  response: 7E80462000D2D
+- expected_values:
+    SIERRA1500_VSS: 53
+  response: 7E80462000D35
+- expected_values:
+    SIERRA1500_VSS: 57
+  response: 7E80462000D39
+- expected_values:
+    SIERRA1500_VSS: 68
+  response: 7E80462000D44
+- expected_values:
+    SIERRA1500_VSS: 77
+  response: 7E80462000D4D
